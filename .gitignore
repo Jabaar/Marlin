@@ -42,8 +42,6 @@ applet/
 *.ii
 *.swp
 tags
-/docs/
-/ini/
 
 #
 # C++
